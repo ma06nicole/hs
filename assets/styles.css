@@ -1,0 +1,30 @@
+/* body {background-color: beige;} */
+
+/* .choropleth_map{
+    background-color: gray;
+    width: 80%;
+    height: 100px;
+} */
+
+H1{
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 30px;
+}
+
+.choropleth_map{
+    background-color:#4d4942;
+}
+
+.header{
+    padding: 20px;
+    text-align: center;
+    background: #330f97;
+    color: white;
+    font-size: 30px;
+}
+
+/* .container{
+    background-color:black;
+} */
+
